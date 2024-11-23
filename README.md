@@ -124,7 +124,7 @@ firebase login
 
 ```bash
 git clone <repository-url>
-cd flutter-Daily-journal-app
+cd Daily_Journal_App
 ```
 
 For Installing Dependencies Run the following command to fetch all dependencies mentioned in the pubspec.yaml file:
