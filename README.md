@@ -150,6 +150,7 @@ flutter run
 # Running Tests
 
 The project includes unit tests located in the `test` directory to ensure the functionality of CRUD operations for journal entries. These tests verify the app's behavior across various scenarios, including successful operations, edge cases, and error handling. 
+
 All the test cases can be found in the `/test/simple_crud_test.dart` file in the project root directory.
 
 Below is a summary of the tests included in this project:
